@@ -9,7 +9,7 @@ menu:
     name: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+My name is Andy and I make things with computers and phones
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
